@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:50C625C0
+NODE:I LEVEL:0 LINE:1 "D:\My Programs\CodeVision\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "D:\My Programs\CodeVision\inc\alcd.h"
+NODE:I LEVEL:0 LINE:3 "D:\My Programs\CodeVision\inc\stdio.h"
+NODE:V LEVEL:0 LINE:6 "freq -> R4,R5"
+NODE:V LEVEL:0 LINE:7 "counter -> R6,R7"
+NODE:V LEVEL:0 LINE:8 "time_m -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "strShow -> RAM:????"
+NODE:F LEVEL:0 LINE:12 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:21 "timer2_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:27 "main(void)"
